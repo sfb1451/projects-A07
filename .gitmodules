@@ -1,0 +1,5 @@
+[submodule "2022_Endle_LPA_feeding_control"]
+	path = 2022_Endle_LPA_feeding_control
+	url = git@gin.g-node.org:/Vogt_Lab/2022_Endle_LPA_feeding_control.git
+	datalad-id = fd41dcd4-0215-4aef-8706-6e97c136c97f
+	datalad-url = git@gin.g-node.org:/Vogt_Lab/2022_Endle_LPA_feeding_control.git
