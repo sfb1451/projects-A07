@@ -8,3 +8,8 @@
 	url = git@gin.g-node.org:/Vogt_Lab/2022_Bitar_ATX_stroke.git
 	datalad-id = ebf6852a-ff0c-45c7-99f9-ab7910b084d9
 	datalad-url = git@gin.g-node.org:/Vogt_Lab/2022_Bitar_ATX_stroke.git
+[submodule "2021_Ye_Ji_carbon_nanotubes_differentiation"]
+	path = 2021_Ye_Ji_carbon_nanotubes_differentiation
+	url = git@gin.g-node.org:/Vogt_Lab/2021_Ye_Ji_carbon_nanotubes_differentiation.git
+	datalad-id = 20bc6743-827d-4cbf-af60-38add7f55bc5
+	datalad-url = git@gin.g-node.org:/Vogt_Lab/2021_Ye_Ji_carbon_nanotubes_differentiation.git
