@@ -3,3 +3,8 @@
 	url = git@gin.g-node.org:/Vogt_Lab/2022_Endle_LPA_feeding_control.git
 	datalad-id = fd41dcd4-0215-4aef-8706-6e97c136c97f
 	datalad-url = git@gin.g-node.org:/Vogt_Lab/2022_Endle_LPA_feeding_control.git
+[submodule "2022_Bitar_ATX_stroke"]
+	path = 2022_Bitar_ATX_stroke
+	url = git@gin.g-node.org:/Vogt_Lab/2022_Bitar_ATX_stroke.git
+	datalad-id = ebf6852a-ff0c-45c7-99f9-ab7910b084d9
+	datalad-url = git@gin.g-node.org:/Vogt_Lab/2022_Bitar_ATX_stroke.git
